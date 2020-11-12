@@ -1,8 +1,8 @@
-const testOverrides = require('@nighttrax/eslint-config-base/tests.js');
+const testOverrides = require('@as2network/eslint-config-base/tests.js');
 
 module.exports = {
   'extends': [
-    '@nighttrax/eslint-config-base',
+    '@as2network/eslint-config-base',
     // This disables all stylistic rules from the above.
     'prettier/@typescript-eslint'
   ],

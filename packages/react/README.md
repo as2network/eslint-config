@@ -1,7 +1,7 @@
 ## Install
 
 ```sh
-npm i @nighttrax/eslint-config-react
+npm i @as2network/eslint-config-react
 ```
 
 
@@ -13,8 +13,8 @@ This config is meant to be applied on top of one of the other base configs.
 module.exports = {
   'root': true,
   'extends': [
-    '@nighttrax/eslint-config-ts',
-    '@nighttrax/eslint-config-react'
+    '@as2network/eslint-config-ts',
+    '@as2network/eslint-config-react'
   ]
 };
 ```

@@ -16,5 +16,5 @@ git clone https://github.com/as2network/"$PROJECT".git
 cd "$PROJECT"
 
 yarn install
-yarn link @nighttrax/eslint-config-"$CONFIG"
+yarn link @as2network/eslint-config-"$CONFIG"
 yarn run lint

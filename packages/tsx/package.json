@@ -4,19 +4,19 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint config for TSX apps",
+  "description": "as2network's ESLint config for TSX apps",
   "keywords": [
     "eslint",
     "config",
     "typescript",
     "react"
   ],
-  "author": "  <NiGhTTraX@users.noreply.github.com>",
+  "author": "  <as2network@users.noreply.github.com>",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiGhTTraX/eslint-config.git"
+    "url": "git+https://github.com/as2network/eslint-config.git"
   },
   "scripts": {
     "test": "../../test.sh tdd-buffet tsx"

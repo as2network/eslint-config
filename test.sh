@@ -12,7 +12,7 @@ yarn link
 
 cd /tmp
 rm -rf "$PROJECT"
-git clone https://github.com/NiGhTTraX/"$PROJECT".git
+git clone https://github.com/as2network/"$PROJECT".git
 cd "$PROJECT"
 
 yarn install

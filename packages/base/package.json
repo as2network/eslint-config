@@ -4,17 +4,17 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint base config",
+  "description": "as2network's ESLint base config",
   "keywords": [
     "eslint",
     "config"
   ],
-  "author": "  <NiGhTTraX@users.noreply.github.com>",
+  "author": "  <as2network@users.noreply.github.com>",
   "license": "MIT",
   "main": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiGhTTraX/eslint-config.git"
+    "url": "git+https://github.com/as2network/eslint-config.git"
   },
   "dependencies": {
     "eslint-config-airbnb-base": "^14.0.0",
